@@ -7,3 +7,5 @@ Git is a version control system.
 Git is a version control system.
 
 My Git assignment change
+Git requires explicit actions.
+My Git assignment change
